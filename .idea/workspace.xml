@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14180e3f-84b1-40dc-af1b-ebc66ef6a4e0" name="Changes" comment="Still need to fix plant logo not appearing. Added h3 tag to common name in garden.">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/happyroots-react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/happyroots-react/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/happyroots-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/happyroots-react/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="14180e3f-84b1-40dc-af1b-ebc66ef6a4e0" name="Changes" comment="Testing new authorization." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705359688988</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Testing new authorization.">
+      <option name="closed" value="true" />
+      <created>1739061488389</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739061488390</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +183,7 @@
     <MESSAGE value="Merged with main and tested with no errors." />
     <MESSAGE value="Merged with main." />
     <MESSAGE value="Fixed issue with plant link not appearing in garden page. Happy Roots logo still not appearing on plant page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed issue with plant link not appearing in garden page. Happy Roots logo still not appearing on plant page." />
+    <MESSAGE value="Testing new authorization." />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing new authorization." />
   </component>
 </project>
